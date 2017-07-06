@@ -5,7 +5,7 @@ $(document).on("click", ".emotion", function(){
 	
 
 	var emotion = $(this).attr("data-name");
-	var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + emotion + "&api_key=47c3b661255144c09e348891cfbddd23&limit=25";
+	var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + emotion + "&api_key=47c3b661255144c09e348891cfbddd23&limit=25";
 
 	$.ajax({
           url: queryURL,
@@ -84,7 +84,7 @@ setInterval(function(){
 //The first gif diplayed in the calendar takes the day of the week keyword to find the initial gif
 
 var day = moment().format('dddd');  
-	var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + day + "&api_key=47c3b661255144c09e348891cfbddd23&limit=25";
+	var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + day + "&api_key=47c3b661255144c09e348891cfbddd23&limit=25";
 
 	$.ajax({
           url: queryURL,
@@ -122,7 +122,7 @@ var day = moment().format('dddd');
     var APIKey = "166a433c57516f51dfab1f7edaed8413";
 
     // Here we are building the URL we need to query the database
-    var queryURL = "http://api.openweathermap.org/data/2.5/weather?" +
+    var queryURL = "https://api.openweathermap.org/data/2.5/weather?" +
       "zip=" + zipcode + "&units=imperial&appid=" + APIKey;
 
     // Here we run our AJAX call to the OpenWeatherMap API
