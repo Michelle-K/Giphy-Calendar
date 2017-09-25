@@ -1,5 +1,5 @@
 
-![Preview](Michelle-K.github.com/Giphy-Calendar/giphy homescreen.gif)
+![Preview](Michelle-K.github.com/Giphy-Calendar/giphyCal.gif)
 
 # Giphy Calendar
 
