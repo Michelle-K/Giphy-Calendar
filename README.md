@@ -1,5 +1,6 @@
 
 ![Preview](Michelle-K.github.com/Giphy-Calendar/giphyCal.gif)
+![Settings Window](https://raw.github.com/Michelle-K/Giphy-Calendar/master/giphyCal.gif)
 
 # Giphy Calendar
 
