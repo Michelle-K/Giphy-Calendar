@@ -1,6 +1,7 @@
 
 ![Preview](Michelle-K.github.com/Giphy-Calendar/giphyCal.gif)
 ![Settings Window](https://raw.github.com/Michelle-K/Giphy-Calendar/master/giphyCal.gif)
+![Alt text](/relative/path/to/giphyCal.gif?raw=true "Optional Title")
 
 # Giphy Calendar
 
