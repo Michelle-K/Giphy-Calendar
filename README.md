@@ -8,7 +8,6 @@ A web browser home screen with gifs, a calendar, and the weather!
 
 ## Getting Started
 
-Go to the link below to try it out.
 https://michelle-k.github.io/Giphy-Calendar/
 Set Giphy Calendar as your homepage to see your gif on the daily!
 
